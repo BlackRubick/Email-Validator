@@ -1,6 +1,5 @@
-# flutter_application_1
+# Email Validator , it's for a university assignment
 
-A new Flutter project.
 
 ## Getting Started
 
